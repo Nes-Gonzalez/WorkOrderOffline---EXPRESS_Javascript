@@ -1,3 +1,7 @@
+#node and coverage
+publicWorksApp/node_modules
+publicWorksApp/coverage
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
